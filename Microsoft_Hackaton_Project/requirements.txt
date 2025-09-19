@@ -1,0 +1,5 @@
+streamlit
+sentence-transformers
+pdfplumber
+python-docx
+nltk
